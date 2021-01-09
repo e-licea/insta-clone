@@ -1,2 +1,0 @@
-# insta-clone
-Instragram clone
